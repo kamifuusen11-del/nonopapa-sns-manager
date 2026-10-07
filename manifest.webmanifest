@@ -1,0 +1,12 @@
+{
+  "name": "ののパパ SNS運用管理",
+  "short_name": "ののパパ",
+  "description": "ののパパ Instagram・SNS運用管理アプリ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "lang": "ja",
+  "orientation": "portrait-primary"
+}
